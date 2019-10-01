@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnieray/pokedex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnieray/pokedex/issues"
+  },
+  "homepage": "https://github.com/sunnieray/pokedex#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "stylelint": "^11.0.0",
+    "stylelint-config-prettier": "^6.0.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-prettier": "^1.1.1"
+  }
+}
